@@ -1,4 +1,4 @@
-# Raices de un Polinomio
+# Raices de un Polinomio / Roots of a polynomial
 
 Este programa utiliza el algorito de Bairstown para calcular las raices reales y complejas
 de un polinomio de grado > 0
